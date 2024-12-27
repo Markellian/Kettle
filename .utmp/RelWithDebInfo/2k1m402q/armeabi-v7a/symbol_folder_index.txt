@@ -1,0 +1,1 @@
+C:\Users\lexus\Kettle\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2k1m402q\obj\armeabi-v7a

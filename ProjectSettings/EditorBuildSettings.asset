@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0f2d88db37303e44d95f0259f50aec51, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b80eece89fc4c63489cf65b19d6847b6, type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 43b6b0977dd3d72448eeb0844ab96cbb, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 5a7ffee8f235b97439c2747a82f193f5, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 778c23d9a4f86c24092759590bb2341f, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ba1469fdd927e984da420a545c7c6ead, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 22f67c03a2feed947b940b00e96b9ccc, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6ff1a5e33da9c1c4082cb21575b27348, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f0d07df356930784e8dd08ea05f615b9, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 254ac755b141eac42b69cf9db6791bb6, type: 2}
+  m_UseUCBPForAssetBundles: 0

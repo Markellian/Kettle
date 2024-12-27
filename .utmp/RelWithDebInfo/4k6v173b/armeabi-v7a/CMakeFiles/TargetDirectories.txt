@@ -1,0 +1,5 @@
+D:/Projects/Kettle/.utmp/RelWithDebInfo/4k6v173b/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Projects/Kettle/.utmp/RelWithDebInfo/4k6v173b/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/Projects/Kettle/.utmp/RelWithDebInfo/4k6v173b/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+D:/Projects/Kettle/.utmp/RelWithDebInfo/4k6v173b/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Projects/Kettle/.utmp/RelWithDebInfo/4k6v173b/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
